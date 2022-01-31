@@ -1,5 +1,5 @@
 # CSC220-algorithm
-###HomeWork -week2_lec1
+HomeWork -week2_lec1
 ---
 Step 1: Set the value of "hours per week" and "time half hpw" and
         "double time hpw" and "gross pay" and "hourly pay rate" to 0.
